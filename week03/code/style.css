@@ -1,5 +1,31 @@
 /* this is a comment in CSS */
 
+#donald {
+	background-color: pink;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#donald img:hover {
+	border-radius: 50px;
+}
+nav {
+	background-color: green;
+}
+
+nav ul {
+	padding: 10px;
+	/* background-color: black; */
+}
+
+nav li a:hover {
+	color:white;
+}
+nav a {
+	color: pink;
+	background-color: brown;
+}
+
 h2 {
 	font-family: Times;
 	background: white;
@@ -12,6 +38,7 @@ h2 {
 }
 
 h3 {
+	color: rgba(255,255,255);
 	background: rgba(50,50,50);
 	font-weight: bold;
 	text-align: center;

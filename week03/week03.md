@@ -18,6 +18,7 @@
 	* [CSS Tricks - Classes + IDs](https://css-tricks.com/the-difference-between-id-and-class/)
 
 #### CSS Positioning
+* [WC - Centering Things](https://www.w3.org/Style/Examples/007/center.en.html)
 * [CSS Border Styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#Values)
 * [CSS Padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding#Syntax)
 * [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
