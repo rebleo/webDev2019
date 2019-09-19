@@ -1,3 +1,13 @@
+#### File Paths continued
+  * [Absolute vs. Relative](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
+#### More HTML 5
+  * [HTML 5 Semantic Tags](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
+  * [MDN HTML 5 Reference](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+	* [Semantic Markup](https://shapeshed.com/the-importance-of-semantic-markup/)
+  * [Nav Bar](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+	* [w3 audio](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_audio_all)
+	* [W3 Video](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_video)
+
 ### Intro CSS
   * [CSS Syntax Validation](https://jigsaw.w3.org/css-validator/#validate_by_uri)
   * [MDN Intro CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
@@ -5,6 +15,7 @@
   * [MDNSimple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
   * [MDN Nesting Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
   * [MDN Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
+	* [CSS Tricks - Classes + IDs](https://css-tricks.com/the-difference-between-id-and-class/)
 
 #### CSS Positioning
 * [CSS Border Styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#Values)
