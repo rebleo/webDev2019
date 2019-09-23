@@ -13,9 +13,12 @@
 
 #### [Week 3](https://github.com/rebleo/webDev2019/wiki/Week-03) - September 17 + 19
 * HTML 5
+* Intro to CSS 3
+* CSS Box Model + Positioning
 
 #### [Week 4](https://github.com/rebleo/webDev2019/wiki/Week-04) - September 24 + 26
-* Intro to CSS 3
+* Self Portrait Site Discussion
+* Using Git + Github Pages
 * Responsive Web Design
 
 #### [Week 5](https://github.com/rebleo/webDev2019/wiki/Week-05)- October 1 + 3  
