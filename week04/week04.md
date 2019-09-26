@@ -39,3 +39,18 @@ git push origin master
 
 
 You can check status any time, and it is not necessary but becomes a very good habit to maintain, as the complexity of your projects increase.
+
+##### Design Resources:
+* Good website design!
+  * [SiteInspire](https://www.siteinspire.com)
+  * [Brutalist Websites](http://brutalistwebsites.com)
+  * [SiteSee](https://sitesee.co/)
+  * [Awwwards](https://www.awwwards.com/websites/)
+* Good web typography!  
+  * [Google Font API](https://developers.google.com/fonts/)
+  * [Google Chrome Plug-in - What Font is that?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+  * [Typewolf](https://www.typewolf.com/)
+  * [Fonts in Use](https://fontsinuse.com/)
+  * [Canva - Font Pairing](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
+  * [Canva - Font Pairing Tool](https://www.canva.com/font-combinations)
+  * [Type.io](http://typ.io/)
