@@ -41,6 +41,9 @@ git push origin master
 You can check status any time, and it is not necessary but becomes a very good habit to maintain, as the complexity of your projects increase.
 
 ##### Design Resources:
+Texts:
+  * [Programming Design Systems](https://programmingdesignsystems.com/introduction/) - Rune Madsen
+  * [Interaction of Color](https://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359) - Josef Albers, 1963
 * Good website design!
   * [SiteInspire](https://www.siteinspire.com)
   * [Brutalist Websites](http://brutalistwebsites.com)
