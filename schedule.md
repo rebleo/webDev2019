@@ -19,29 +19,28 @@
 #### [Week 4](https://github.com/rebleo/webDev2019/wiki/Week-04) - September 24 + 26
 * Self Portrait Site Discussion
 * Using Git + Github Pages
-* Responsive Web Design
 
 #### [Week 5](https://github.com/rebleo/webDev2019/wiki/Week-05)- October 1 + 3  
+* Responsive Web Design
 * CSS Flexbox + Grids
 
 #### [Week 6](https://github.com/rebleo/webDev2019/wiki/Week-06) - October 8 + 10
-* CSS Animation
 * Midterm Project Proposals
 
 #### [Week 7](https://github.com/rebleo/webDev2019/wiki/Week-07):
 ##### Tuesday October 15 - No Class - NYU follows a Monday schedule
 ##### Thursday October 17
-* Midterm Project Presentations
+* * CSS Animation
 
 #### [Week 8](https://github.com/rebleo/webDev2019/wiki/Week-08): - October 22 + 24
-* Midterm Project Presentations
-* Intro to JavaScript + the DOM
+* Midterm Project User Testing
 
 #### [Week 9](https://github.com/rebleo/webDev2019/wiki/Week-09) - October 29 + 31
-* Programming in the Browser w/ Native JavaScript
+* Intro to JavaScript + the DOM
+
 
 #### [Week 10](https://github.com/rebleo/webDev2019/wiki/Week-10) - November 5 + 7
-
+* Programming in the Browser w/ Native JavaScript
 #### [Week 11](https://github.com/rebleo/webDev2019/wiki/Week-11) - November 12 + 14
 
 #### [Week 12](https://github.com/rebleo/webDev2019/wiki/Week-12) - November 19 + 21
