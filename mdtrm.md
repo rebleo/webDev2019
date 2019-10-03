@@ -1,4 +1,5 @@
 #### Homework for Week 06 - October 8 + 10
+##### [Presentation Schedule](https://github.com/rebleo/webDev2019/wiki/Week-06)
 
 * Prepare your midterm presentation! You will be creating a fully functioning website, styled with CSS. It is up to you if it is multiple pages or just one HTML page, but every design element must be well considered. On Tuesday and Thursday next week, you will have 5 minutes to present your midterm ideas and getting critique. Your presentation must include:
 
@@ -14,3 +15,7 @@
 
 
 https://www.pinterest.com/pin/331999803756049839/
+
+##### Tech Parameters
+* Author all your own code - no libraries!
+* At least three
