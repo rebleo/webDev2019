@@ -38,18 +38,21 @@
 #### [Week 9](https://github.com/rebleo/webDev2019/wiki/Week-09) - October 29 + 31
 * Intro to JavaScript + the DOM
 
-
 #### [Week 10](https://github.com/rebleo/webDev2019/wiki/Week-10) - November 5 + 7
-* Programming in the Browser w/ Native JavaScript
+* Using libraries: p5.js, JQuery
 #### [Week 11](https://github.com/rebleo/webDev2019/wiki/Week-11) - November 12 + 14
+* Bootstrap
 
 #### [Week 12](https://github.com/rebleo/webDev2019/wiki/Week-12) - November 19 + 21
 
 #### [Week 13](https://github.com/rebleo/webDev2019/wiki/Week-13)
 ##### Tuesday November 26
+* 3 Slide - 3 minute Final Project Proposals
+
 ##### Thursday November 28 - No class - Thxgiving Break
 
 #### [Week 14](https://github.com/rebleo/webDev2019/wiki/Week-14-and--15) - December 3 + 5
+* Final Project User Testing
 
 #### Week 15 - December  10 + 12
 * Final Project Presentations
