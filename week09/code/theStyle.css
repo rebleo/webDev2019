@@ -1,0 +1,16 @@
+body {
+	background-color: pink;
+	/* backgroundColor: rgba(0,200,0); */
+	color: rgba(0,0,255);
+}
+
+
+#button2 {
+	padding: 4vh;
+	background-color: green;
+	border-radius: 25px;
+}
+
+#button2:focus{
+	background-color: yellow;
+}
