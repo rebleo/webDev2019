@@ -22,6 +22,7 @@
 * [Selectors](https://api.jquery.com/category/selectors/)
 * [Events](https://api.jquery.com/category/events/)
 * [DOM Manipulation](https://api.jquery.com/category/manipulation/)
+* [Mouse Events](https://api.jquery.com/category/events/mouse-events/)
 * [Load JSON](https://api.jquery.com/jQuery.getJSON/)
 * [val()](https://api.jquery.com/val/)
 
