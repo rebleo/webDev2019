@@ -16,4 +16,15 @@
 * [Node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
 * [Express](https://expressjs.com/)
+* [Body Parser](https://www.npmjs.com/package/body-parser)
 * [Electron](https://electronjs.org/)
+
+
+##### Serverside
+* [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
+* [MDN Node Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [HTTP Request Method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Node HTTP api Documentation](https://nodejs.org/api/http.html)
+* [body parser](https://github.com/expressjs/body-parser)
+* [cors](https://www.npmjs.com/package/cors)
+* [File System](https://developer.mozilla.org/en-US/docs/Web/API/FileSystem)
