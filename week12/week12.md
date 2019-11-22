@@ -1,4 +1,9 @@
-###### Good Web Design tools
+###### Inspiration
+* [Rhizome.org Archive](http://archive.rhizome.org/)
+* [Rhizome's Net.Art Anthology](https://anthology.rhizome.org/)
+* [Alexander Galloway - Internet Art](http://oldobjectsnewideas.com/_reading/protocol7.pdf)
+
+###### Web Design tools
 * [https://wireframe.cc/](https://wireframe.cc/)
 * [https://www.sketch.com/](https://www.sketch.com/)
 * [http://generator.lorem-ipsum.info/](http://generator.lorem-ipsum.info/)
@@ -20,11 +25,18 @@
 * [Electron](https://electronjs.org/)
 
 
-##### Serverside
+##### Server side
 * [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
-* [MDN Node Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [HTTP Request Method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [MDN Node Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Tutorial Part 4 - Routes](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
 * [Node HTTP api Documentation](https://nodejs.org/api/http.html)
 * [body parser](https://github.com/expressjs/body-parser)
 * [cors](https://www.npmjs.com/package/cors)
 * [File System](https://developer.mozilla.org/en-US/docs/Web/API/FileSystem)
+* [Path manipulation](https://developer.mozilla.org/en-US/docs/Mozilla/JavaScript_code_modules/OSFile.jsm/OS.Path)
+
+
+##### Making your own (non github pages) website
+* [DreamHost](https://www.dreamhost.com/)
+* [DigitalOcean](https://www.digitalocean.com/)
